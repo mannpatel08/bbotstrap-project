@@ -1,1 +1,131 @@
-# bbotstrap-project
+# React Bootstrap Integrated App
+
+This project is a fully responsive **React JS** web application built using:
+
+* **React (Vite)**
+* **Bootstrap 5**
+* **Higher-Order Components (HOC)**
+* **Reusable Components Architecture**
+* **Modern UI Design (TechGuru Theme Inspired)**
+
+This README documents the project setup, installation steps, features, and output previews.
+
+---
+
+## 📂 Project Structure
+
+```
+bootstrap-integrated-app/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── hoc/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🔧 Technologies Used
+
+| Technology                  | Purpose              |
+| --------------------------- | -------------------- |
+| **React JS (Vite)**         | Fast dev environment |
+| **Bootstrap 5**             | Grid & responsive UI |
+| **Higher‑Order Components** | Section wrappers     |
+| **CSS3**                    | Custom UI styling    |
+| **Unsplash Images**         | Demo assets          |
+
+---
+
+## 🛠 Installation & Setup
+
+### **1️⃣ Clone the Repository**
+
+```bash
+git clone https://github.com/your-repo/bootstrap-integrated-app.git
+cd bootstrap-integrated-app
+```
+
+### **2️⃣ Install Dependencies**
+
+```bash
+npm install
+```
+
+### **3️⃣ Install Bootstrap**
+
+```bash
+npm install bootstrap
+```
+
+### **4️⃣ Import Bootstrap in `main.jsx`**
+
+```js
+import 'bootstrap/dist/css/bootstrap.min.css';
+```
+
+### **5️⃣ Start Development Server**
+
+```bash
+npm run dev
+```
+
+App runs at: **[http://localhost:5173](http://localhost:5173)**
+
+---
+
+## 🎯 Features
+
+* Fully responsive layout
+* Bootstrap-powered UI
+* Clean component structure
+* HOC used for reusable sections
+* Modern theme and typography
+
+---
+
+## 🖼 Output Screenshots
+
+Add your screenshots inside `/public/screenshots/` and reference them:
+
+```
+![Screenshot 1](public/screenshots/screen1.jpg)
+![Screenshot 2](public/screenshots/screen2.jpg)
+![Screenshot 3](public/screenshots/screen3.jpg)
+![Screenshot 4](public/screenshots/screen4.jpg)
+```
+
+*(Replace with real file names after adding your images.)*
+
+---
+
+## 👨‍💻 Developer Notes
+
+* All UI sections are wrapped using a reusable HOC (`withSection`).
+* Bootstrap is imported locally, not via CDN.
+* Components are modular and easy to scale.
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🛠 Contribute improvements
+* 🚀 Share with others
+
+---
+
+**Happy Coding!**
