@@ -100,10 +100,10 @@ App runs at: **[http://localhost:5173](http://localhost:5173)**
 Add your screenshots inside `/public/screenshots/` and reference them:
 
 ```
-![Screenshot 1](public/screenshots/screen1.jpg)
-![Screenshot 2](public/screenshots/screen2.jpg)
-![Screenshot 3](public/screenshots/screen3.jpg)
-![Screenshot 4](public/screenshots/screen4.jpg)
+![Screenshot 2025-12-03 222134](https://github.com/user-attachments/assets/4373eaa5-c87b-4b7c-9c21-0c011f568b90)
+![Screenshot 2025-12-03 222158](https://github.com/user-attachments/assets/82352889-00b0-412e-bea6-3d7a22958e1a)
+![Screenshot 2025-12-03 222227](https://github.com/user-attachments/assets/ada6be3e-82f5-4c5d-a07d-4608ca7b0aab)
+![Screenshot 2025-12-03 222245](https://github.com/user-attachments/assets/6feb5d6d-0c35-4f6a-9637-e4659046f912)
 ```
 
 *(Replace with real file names after adding your images.)*
